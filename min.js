@@ -35,7 +35,7 @@ function cal_day_min(){
     document.getElementById("calculate2").innerHTML=day_min(calculate) 
 }
 
-function cal_mount(){
+function cal_mount_min(){
     let mount_28 = prompt("กรุณากรอกจำนวนเดือนที่มี28วัน")
     let mount_29 = prompt("กรุณากรอกจำนวนเดือนที่มี29วัน")
     let mount_30 = prompt("กรุณากรอกจำนวนเดือนที่มี30วัน")
